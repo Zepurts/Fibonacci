@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int c=0;
+void fib(int n,int i=0,int j=0,int k=1){
+	if(c==n)
+	 return;
+	int res=i;
+	cout<<res<<' ';
+	  c++;
+	fib(n,i+j+k,k,res);
+}
+int main()
+{   int n=20;
+	fib(n);
+}
