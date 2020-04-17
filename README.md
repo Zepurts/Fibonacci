@@ -4,5 +4,5 @@
 <strong>Extended Fib - </strong>
 0 1 2 3 6 11 20 37 68 125 230 <br>
 <strong>More Extended Fib - </strong>
-0 1 2 4 7 14 27 52 100 193 372 717 1382
-<strong>General Code for FIBONACCI</strong>
+0 1 2 4 7 14 27 52 100 193 372 717 1382<br>
+<strong>/*General Code for FIBONACCI*/</strong>
